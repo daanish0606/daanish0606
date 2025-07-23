@@ -41,10 +41,10 @@ Here are some projects that showcase my skills and interests.
 ---
 
 ### **Experience**
-* **Application Tester Intern @ Pyroferus** (Jan 2024 - Feb 2024) [cite: 14, 15]
-    *Assisted in testing and validation of web and mobile applications to ensure functionality and performance[cite: 16].
-    *Executed manual test cases and documented software defects using bug-tracking tools[cite: 17].
-    *Collaborated with developers and QA teams to identify, log, and resolve software issues[cite: 18].
+* **Application Tester Intern @ Pyroferus** (Jan 2024 - Feb 2024)
+    *Assisted in testing and validation of web and mobile applications to ensure functionality and performance.
+    *Executed manual test cases and documented software defects using bug-tracking tools.
+    *Collaborated with developers and QA teams to identify, log, and resolve software issues.
 
 ### **Courses & Certifications 🏆**
 - Joy of Computing with Python (NPTEL Swayam - Elite) 
