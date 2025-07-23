@@ -1,11 +1,13 @@
-# Hey coders, I'm Daanish Furqaan M 👋
+# Hi there, I'm Daanish Furqaan M 👋
 
 ### AI & Data Science Student | Full Stack Developer (MERN)
 
-I'm a motivated Artificial Intelligence and Data Science student at Dhaanish Ahmed College of Engineering (graduating 2026) with a passion for full-stack development. My technical skills are centered around the MERN stack (MongoDB, Express.js, React, Node.js) I gained practical experience as an **Application Tester Intern at Pyroferus**, where I assisted in testing web applications and collaborated with the development team
+I'm a motivated Artificial Intelligence and Data Science student at Dhaanish Ahmed College of Engineering (graduating 2026) with a passion for full-stack development. My technical skills are centered around the MERN stack (MongoDB, Express.js, React, Node.js). I gained practical experience as an **Application Tester Intern at Pyroferus**, where I assisted in testing web applications and collaborated with the development team.
+
 <p align="center">
   <a href="https://www.linkedin.com/in/daanishfurqaan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:daanishfurqaan93@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://daanish-furqaan.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -32,31 +34,25 @@ Here are some projects that showcase my skills and interests.
 
 | Project | Description | Link |
 | :--- | :--- | :---: |
-|**Netflix Clone**| A React-based project demonstrating strong front-end development skills. | `[View Code](#)` |
-|**Personal Portfolio** | My personal portfolio project to showcase my work and skills. | `[View Site](#)` |
-|**Car Rental System** | A full-stack application demonstrating backend logic and system design. | `[View Code](#)` |
-| **PHP-MySQL CRUD App** | A full-stack application using PHP and a relational database to manage data. | `[View Code](#)` |
+| **Personal Portfolio** | My personal portfolio project to showcase my work and skills. | `[View Site](https://daanish-furqaan.web.app/)` |
+| **Netflix Clone** | A React-based project demonstrating strong front-end development skills. | `[View Code](https://github.com/daanish0606/Netflix-Clone)` |
+| **Car Rental System** | A full-stack application demonstrating backend logic and system design. | `[View Code](https://github.com/daanish0606/Car-Rental-System)` |
 | **Open Source Repo**| A repository to document my contributions to open-source projects. | `[View Repo](#)` |
+
 
 ---
 
-### **Experience**
-* **Application Tester Intern @ Pyroferus** (Jan 2024 - Feb 2024)
-    *Assisted in testing and validation of web and mobile applications to ensure functionality and performance.
-    *Executed manual test cases and documented software defects using bug-tracking tools.
-    *Collaborated with developers and QA teams to identify, log, and resolve software issues.
-
 ### **Courses & Certifications 🏆**
-- Joy of Computing with Python (NPTEL Swayam - Elite) 
-- Machine Learning (NPTEL Swayam - Elite) 
-- AWS Cloud Practitioner (Amazon) 
-- Digital Productivity training on Emerging Technologies 
+- Joy of Computing with Python (NPTEL Swayam - Elite)
+- Machine Learning (NPTEL Swayam - Elite)
+- AWS Cloud Practitioner (Amazon)
+- Digital Productivity training on Emerging Technologies
 
 ---
 
 ### **My GitHub Stats 📊**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github" alt="Daanish's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daanish0606&show_icons=true&theme=tokyonight&rank_icon=github" alt="Daanish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daanish0606&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
